@@ -11,8 +11,6 @@ This Python tool detects file changes using SHA-256 hashing.
 * Mentor: Neela Santosh
 -----------------------------------------------
 
-Here is a clear and professional **description under 500 words** for your task:
-
 ---
 
 # 📌 **Task Description: File Integrity Monitoring Tool**
@@ -33,4 +31,4 @@ Overall, this task demonstrates practical skills in Python programming, hashing 
 
 ---
 
-If you want this rewritten in simpler language, more formal, or more technical — just tell me!
+Thank you !!!
