@@ -32,3 +32,11 @@ Overall, this task demonstrates practical skills in Python programming, hashing 
 ---
 
 Thank you !!!
+
+
+
+
+**output**
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/279599ef-8839-4035-a080-27fb004de2a4" />
